@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.exe
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.deps.json
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.runtimeconfig.json
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.dll
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.pdb
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.sourcelink.json
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.dll
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\refint\DotNetDebugging.dll
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.pdb
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDebugging\obj\Release\net9.0\ref\DotNetDebugging.dll

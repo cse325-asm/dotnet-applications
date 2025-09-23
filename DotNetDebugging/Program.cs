@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-int result = Fibonacci(5); // 5 is the argument
+int result = Fibonacci(6); // 5 is the argument
 Console.WriteLine(result);
 
 static int Fibonacci(int n) // n is the parameter
@@ -20,6 +20,8 @@ static int Fibonacci(int n) // n is the parameter
         Debug.WriteLineIf(sum == 1, $"sum is 1, n1 is {n1}, n2 is {n2}");    
     }
 
+    // If n2 is 5 continue, else break.
+    Debug.Assert(n2 == 5, "The return value is not 5 and it should be.");
     return n == 0 ? n1 : n2; // Ternary operator: if "n" is 0, return "n1", otherwise return "n2"
 }
 
