@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\bin\Debug\net9.0\DotNetDependencies.exe
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\bin\Debug\net9.0\DotNetDependencies.deps.json
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\bin\Debug\net9.0\DotNetDependencies.runtimeconfig.json
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\bin\Debug\net9.0\DotNetDependencies.dll
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\bin\Debug\net9.0\DotNetDependencies.pdb
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.dll
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\refint\DotNetDependencies.dll
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.pdb
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\DotNetDependencies.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documents\cse325\dotnet-applications\DotNetDependencies\obj\Debug\net9.0\ref\DotNetDependencies.dll
