@@ -15,8 +15,8 @@ Accept: application/json
 
 ###
 
-# GET {{ContosoPizza_HostAddress}}/pizza/5
-#Accept: application/json
+GET {{ContosoPizza_HostAddress}}/pizza/5
+Accept: application/json
 
 ###
 
